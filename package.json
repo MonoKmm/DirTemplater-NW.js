@@ -1,0 +1,13 @@
+{
+  "name": "Fileredader",
+  "version": "0.1.0",
+  "main": "index.html",
+  "window": {
+    "height": 540,
+    "width": 960,
+    "max-height": 540,
+    "max-width" : 960,
+    "frame": false,
+    "toolbar": false
+  }
+}
